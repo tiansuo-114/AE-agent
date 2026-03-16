@@ -124,10 +124,10 @@ localStorage.setItem('ATOM_IMAGE_BASE_URL', 'https://openrouter.ai/api/v1')
 - [ ] **Premiere Pro 适配** — 将同样的 CEP + ExtendScript 架构迁移到 PR
 - [ ] **Skills 库** — 社区维护的工作流技能包
 - [ ] **视频帧分析** — 通过 ffmpeg 提取帧并送入视觉模型
-- [ ] **批处理模式** — 无人值守地批量处理多个合成
-- [ ] **MCP 集成** — 将 AE 操作暴露为 Model Context Protocol 工具
-- [ ] **第三方插件感知** — 更深度支持 Trapcode、Red Giant 等插件
-- [ ] **时序语音控制** — 描述节奏感，让 Agent 自动匹配
+- [x] **批处理模式** — 无人値守地批量处理多个合成 ✅
+- [x] **MCP 集成** — 将 AE 操作暴露为 Model Context Protocol 工具 ✅
+- [x] **第三方插件感知** — 更深度支持 Trapcode、Red Giant 等插件 ✅
+- [x] **时序语音控制** — 描述节奏感，让 Agent 自动匹配 ✅
 
 ---
 

@@ -124,10 +124,10 @@ The following is on the horizon — contributions welcome!
 - [ ] **Premiere Pro port** — apply the same CEP + ExtendScript architecture to Premiere
 - [ ] **Skills library** — community-maintained skill packs for common workflows
 - [ ] **Video frame analysis** — extract frames via ffmpeg and feed to vision models
-- [ ] **Batch mode** — process multiple compositions in queue without supervision
-- [ ] **MCP integration** — expose AE operations as Model Context Protocol tools
-- [ ] **Plugin awareness** — deeper support for Trapcode, Red Giant, and other third-party effects
-- [ ] **Timeline scrubbing via AI** — describe a timing feel and let the agent match it
+- [x] **Batch mode** — process multiple compositions in queue without supervision ✅
+- [x] **MCP integration** — expose AE operations as Model Context Protocol tools ✅
+- [x] **Plugin awareness** — deeper support for Trapcode, Red Giant, and other third-party effects ✅
+- [x] **Timeline timing control** — describe a timing feel and let the agent match it ✅
 
 ---
 
