@@ -1,3 +1,5 @@
+**[中文文档](README.zh-CN.md) | English**
+
 # AE-Agent
 
 **An AI agent platform for After Effects — run any model, any endpoint, fully under your control.**
