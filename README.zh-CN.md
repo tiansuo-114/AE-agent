@@ -131,6 +131,12 @@ localStorage.setItem('ATOM_IMAGE_BASE_URL', 'https://openrouter.ai/api/v1')
 
 > 用 QQ 扫一扫直接加入。
 
+**微信群**
+
+<img src="docs/wechat-group.jpg" width="240" alt="微信群二维码" />
+
+> 用微信扫一扫直接加入。
+
 ---
 
 ## 参与贡献

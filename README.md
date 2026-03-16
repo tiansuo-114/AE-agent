@@ -131,6 +131,12 @@ Join the QQ group to share workflows, ask questions, and connect with other moti
 
 > Scan with QQ app to join directly.
 
+**WeChat Group**
+
+<img src="docs/wechat-group.jpg" width="240" alt="WeChat Group QR Code" />
+
+> Scan with WeChat to join directly.
+
 ---
 
 ## Contributing
