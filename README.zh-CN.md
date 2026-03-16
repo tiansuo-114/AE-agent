@@ -118,6 +118,21 @@ localStorage.setItem('ATOM_IMAGE_BASE_URL', 'https://openrouter.ai/api/v1')
 
 ---
 
+## 💬 社区交流
+
+加入 QQ 群，分享工作流程、提问、和其他 AE 用户交流。
+
+| | |
+|--|--|
+| **群名** | AE-agent 交流群 |
+| **群号** | `798447894` |
+
+<img src="docs/qq-group.png" width="240" alt="QQ 群二维码" />
+
+> 用 QQ 扫一扫直接加入。
+
+---
+
 ## 参与贡献
 
 项目正在积极开发中，欢迎各种形式的贡献。
