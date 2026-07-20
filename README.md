@@ -133,17 +133,6 @@ The following is on the horizon — contributions welcome!
 
 ## Community
 
-Join the QQ group to share workflows, ask questions, and connect with other motion designers using AE-Agent.
-
-| | |
-|--|--|
-| **Group name** | AE-agent 交流群 |
-| **Group ID** | `798447894` |
-
-<img src="docs/qq-group.png" width="240" alt="QQ Group QR Code" />
-
-> Scan with QQ app to join directly.
-
 **WeChat Group**
 
 <img src="docs/wechat-group.jpg" width="240" alt="WeChat Group QR Code" />
